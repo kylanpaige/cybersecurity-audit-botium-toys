@@ -15,8 +15,5 @@ The main objective of this audit was to assess the current security posture of B
 2. **Medium-Term:** Install an IDS, formulate a disaster recovery plan, and conduct regular backups of critical data.
 3. **Long-Term:** Review and update all administrative/managerial policies, invest in training employees about security best practices, and consider implementing a centralized password management system.
 
-## License
-This work is shared under a [MIT License](LICENSE).
-
 ## Contact
-For further inquiries, please contact [Your Name] at [your.email@example.com].
+For further inquiries, please contact Kylan Paige at kylanpaige.is@gmail.com
