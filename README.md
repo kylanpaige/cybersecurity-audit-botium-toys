@@ -6,9 +6,10 @@ This repository contains documents and findings from a cybersecurity audit condu
 The main objective of this audit was to assess the current security posture of Botium Toys and identify areas for improvement. This was achieved by reviewing various assets managed by the IT department, control categories, and compliance standards.
 
 ## Contents
-- [Controls and Compliance Checklist](./docs/modified_controls_and_compliance_checklist.docx)
-- [Control Categories](./docs/UlCuw8LhSSqoHh2mqEAU0g_a1ed3f7f746c4071ae68b52dd07e4df1_Control-categories.docx)
-- [Botium Toys Scope, Goals, and Risk Assessment Report](./docs/Cf51n9nbSD68ZTB5tTf3sA_a7545121c27b41a2b32db66f1cde7bf1_Botium-Toys-Scope-goals-and-risk-assessment-report.docx)
+- [Controls and Compliance Checklist](./Controls_and_Compliance_Checklist.docx): A checklist assessing the current controls and compliance standards followed by Botium Toys.
+- [Control Categories](./Control_Categories.docx): An overview of different cybersecurity control categories.
+- [Botium Toys Scope, Goals, and Risk Assessment Report](./Botium_Toys_Scope_Goals_and_Risk_Assessment.docx): Details of the scope and goals of the audit, including a risk assessment report.
+- [Modified Controls and Compliance Checklist](./modified_controls_and_compliance_checklist.docx): Completed checklist based on the audit's findings.
 
 ## Recommendations
 1. **Immediate Action:** Implement encryption for customers' credit card information and reconsider access controls to limit access to sensitive data.
